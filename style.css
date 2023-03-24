@@ -1,0 +1,102 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: beige;
+    margin-left: 20px;
+
+}
+
+h3{
+    font-size: 1.5rem;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+/* header */
+
+h1{
+    text-align: center;
+    margin-top: auto;
+}
+.steth{
+    float: left;
+    padding:0 30px 0 50px;
+}
+.titlepara{
+    font-size: 1.7rem;
+    margin-right: 15px;
+}
+
+
+
+/* section */
+
+
+
+/* anatomy */
+
+
+.anotomy-head{
+    font-size: 1.5rem;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+
+
+
+
+.stethoscope-image{
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    margin-left: 500px;
+}
+
+
+
+.anatomy-description{
+    margin-left: 20px;
+}
+
+
+
+/* working */
+
+.working-head{
+    margin-top: 50px;
+    font-size: 1.5rem;
+}
+
+
+.working-para{
+    margin: 10px;
+    font-size: 1.6rem;
+}
+
+
+
+.workvideo{
+    float: right;
+    max-width: 50%;
+    height: 400px;
+}
+
+/* Types */
+
+.type{
+    margin-top: 50px;
+}
+
+.typeimage{
+    margin-left: 400px;
+}
+.typediv{
+    float:right;
+}
+
+
+
+.bd{
+    margin-left: 300px;
+}
